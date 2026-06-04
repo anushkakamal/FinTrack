@@ -24,3 +24,4 @@ A clean Android app to track income and expenses built with Kotlin and MVVM arch
 - **Async:** Kotlin Coroutines + LiveData
 
 ## Architecture
+UI → ViewModel → Repository → Room Database
