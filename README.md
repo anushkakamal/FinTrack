@@ -25,3 +25,14 @@ A clean Android app to track income and expenses built with Kotlin and MVVM arch
 
 ## Architecture
 UI → ViewModel → Repository → Room Database
+
+Clean separation of concerns following Android best practices.
+
+## Setup
+1. Clone the repo
+2. Open in Android Studio
+3. Run on emulator or device (API 24+)
+
+## Author
+Anushka Kamal  
+[GitHub](https://github.com/anushkakamal)
